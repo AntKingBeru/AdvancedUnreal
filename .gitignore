@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset
+Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset
+Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.uasset
+Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset
+Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset
+Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset
+Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset
